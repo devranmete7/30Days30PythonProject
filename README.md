@@ -1,26 +1,57 @@
-# 30 Günlük Python Proje Serisi 🐍
+# 🚀 30 Günlük Python Proje Serisi
 
-Bu depoda Python öğrenenler için hazırladığım 30 günlük, basitten orta seviyeye projeler yer alıyor.
+Merhaba Python geliştirici adayı! 🐍  
+Bu depo, **Python öğrenme sürecini eğlenceli ve pratik hale getirmek** için oluşturulmuş **30 günlük proje serisinden** oluşuyor.  
+Başlangıç seviyesinden orta seviyeye doğru ilerleyen projelerle **her gün yeni bir beceri kazan!**
 
-## 📌 Proje Listesi (İlk 10 Gün)
+---
 
-1. Kullanıcı Karşılama
-2. Hesap Makinesi
-3. Yaş Hesaplayıcı
-4. Sayı Tahmin Oyunu
-5. Çift/Tek Sayı Bulucu
-6. Fibonacci Serisi
-7. Çarpım Tablosu
-8. Not Ortalaması Hesaplayıcı
-9. KDV Hesaplayıcı
-10. İsim Formatlayıcı
+## 📆 Günlük Projeler (1–10. Gün)
 
-Her proje içinde:
-- Python kodu ✅
-- Açıklama satırları ✅
-- Öğrenilen konular ✅
+| Gün | Proje Adı                        | Kapsanan Konular                     |
+|-----|----------------------------------|--------------------------------------|
+| 1   | 👋 Kullanıcı Karşılama           | Girdi alma, `print()` kullanımı     |
+| 2   | 🧮 Hesap Makinesi                | Koşullar, fonksiyonlar               |
+| 3   | 🎂 Yaş Hesaplayıcı               | Tarih işlemleri (`datetime`)        |
+| 4   | 🎯 Sayı Tahmin Oyunu            | Döngüler, `random` modülü           |
+| 5   | 🔢 Çift/Tek Sayı Bulucu         | Mod alma, `if-else`                 |
+| 6   | 🐚 Fibonacci Serisi             | Döngü, sayı dizileri                |
+| 7   | ✖️ Çarpım Tablosu               | İç içe döngüler                     |
+| 8   | 📝 Not Ortalaması Hesaplayıcı  | Liste işlemleri, ortalama alma      |
+| 9   | 💰 KDV Hesaplayıcı              | Matematik işlemleri, yüzde hesaplama|
+| 10  | 🧼 İsim Formatlayıcı            | String işlemleri                    |
 
-Devamı gelecek!
+---
 
-> Bu projeler eğitim amaçlıdır ve herkesin Python öğrenme yolculuğunda kullanması için paylaşılmıştır.
+## 📚 Her Projede Neler Var?
 
+✅ Temiz ve açıklamalı Python kodu  
+✅ Adım adım anlatımlı yorum satırları  
+✅ Öğrenilen konuların listesi  
+✅ Her seviyeye uygun sade yapı  
+
+---
+
+## 🧠 Kimler İçin?
+
+- Python'a yeni başlayanlar 👶  
+- Proje odaklı öğrenmek isteyenler 💡  
+- Günlük pratiklerle kendini geliştirmek isteyen herkes 💪  
+
+---
+
+## 📥 Devamı Gelecek!
+
+Bu sadece başlangıç.  
+İlerleyen günlerde daha fazla proje eklenecek.  
+**⭐ Depoyu yıldızlamayı unutma ve gelişmeleri takip et!**
+
+---
+
+> 📢 Bu projeler tamamen **öğrenme amacıyla** paylaşılmıştır.  
+> Herkesin Python yolculuğunda bir adım ileri gitmesine yardımcı olmayı hedefler.
+
+---
+
+Hazırsan başlayalım!  
+**`python day_01/main.py` şeklinde çalıştırarak projelere göz atabilirsin.**
