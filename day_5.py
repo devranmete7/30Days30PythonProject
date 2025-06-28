@@ -13,6 +13,3 @@ if sayi % 2 == 0:
 else:
     print(f"{sayi} sayısı tektir.")
 
-
-#?Cevapları (Yorumlarda  belirtiniz)
-#*int  ne  için   kullanılır?
