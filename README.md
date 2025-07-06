@@ -15,7 +15,7 @@ Başlangıç seviyesinden orta seviyeye doğru ilerleyen projelerle **her gün y
 | 3   | 🎂 Yaş Hesaplayıcı               | Tarih işlemleri (`datetime`)        |
 | 4   | 🎯 Sayı Tahmin Oyunu            | Döngüler, `random` modülü           |
 | 5   | 🔢 Çift/Tek Sayı Bulucu         | Mod alma, `if-else`                 |
-| 6   | 🐚 Fibonacci Serisi             | Döngü, sayı dizileri                |
+| 6   | 📘 Kelime Sayacı                | String işlemleri, döngüler, sözlük  |
 | 7   | ✖️ Çarpım Tablosu               | İç içe döngüler                     |
 | 8   | 📝 Not Ortalaması Hesaplayıcı  | Liste işlemleri, ortalama alma      |
 | 9   | 💰 KDV Hesaplayıcı              | Matematik işlemleri, yüzde hesaplama|
@@ -54,4 +54,4 @@ Bu sadece başlangıç.
 ---
 
 Hazırsan başlayalım!  
-**`python day_01/main.py` şeklinde çalıştırarak projelere göz atabilirsin.**
+**`python day-01/main.py` şeklinde çalıştırarak projelere göz atabilirsin.**
